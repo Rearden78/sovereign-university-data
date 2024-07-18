@@ -32,7 +32,7 @@ Rejoignez Damien Theillier dans cette exploration enrichissante de la pensée de
 
 ![video](https://youtu.be/PahHHhtX4fI?si=d8zR-RJ4fm_Z4yM9)
 
-Ce cours est une introduction à Frédéric Bastia, ce génie méconnu et une lumière pour notre temps. Dans cette petite introduction, je vais essayer de vous faire découvrir qui était Frédéric Bastia et quels sont les grands thèmes que nous allons aborder durant cette série.
+Ce cours est une introduction à Frédéric Bastiat, ce génie méconnu et une lumière pour notre temps. Dans cette petite introduction, je vais essayer de vous faire découvrir qui était Frédéric Bastia et quels sont les grands thèmes que nous allons aborder durant cette série.
 
 ![image](assets/image/00/IMG01.webp)
 
@@ -44,21 +44,21 @@ Il se trouve qu'après la Seconde Guerre Mondiale, un de ses livres a été publ
 
 ![image](assets/image/00/IMG28.webp)
 
-Alors, un génie méconnu mais aussi une lumière pour notre temps. En effet, Frédéric Bastia, qui est né à Bayonne, a d'abord vécu une partie de sa vie dans les Landes où il s'est occupé d'un domaine agricole dont il avait hérité et il a mené une vie finalement d'entrepreneur. Et puis, très tôt, il s'est intéressé à l'économie, il a voyagé en Angleterre, il a rencontré Richard Codden qui était un chef de file du mouvement de la Ligue pour le libre-échange. Bastia a été fasciné par ce mouvement, il était convaincu que le libre-échange était une solution pour la France et il a décidé par la suite d'essayer de diffuser ses idées en France. Il a écrit des articles qui ont eu beaucoup de succès et il s'est installé à Paris pour diriger un journal qui s'appelait à l'époque le Journal des économistes.
+Alors, un génie méconnu mais aussi une lumière pour notre temps. En effet, Frédéric Bastiat, qui est né à Bayonne, a d'abord vécu une partie de sa vie dans les Landes où il s'est occupé d'un domaine agricole dont il avait hérité et il a mené une vie finalement d'entrepreneur. Et puis, très tôt, il s'est intéressé à l'économie, il a voyagé en Angleterre, il a rencontré Richard Codden qui était un chef de file du mouvement de la Ligue pour le libre-échange. Bastiat a été fasciné par ce mouvement, il était convaincu que le libre-échange était une solution pour la France et il a décidé par la suite d'essayer de diffuser ses idées en France. Il a écrit des articles qui ont eu beaucoup de succès et il s'est installé à Paris pour diriger un journal qui s'appelait à l'époque le Journal des économistes.
 
 ![image](assets/image/00/IMG15.webp)
 
-Il était aussi un philosophe et un penseur de la société, de l'ordre social, de la justice, de la loi, un penseur du droit. Et à ce titre-là, on peut dire que Bastia est une lumière pour notre temps. Et je voudrais en terminer par là. C'est quelqu'un qui a essayé de comprendre le fonctionnement du marché politique. Bien sûr, c'est aussi un défenseur de l'économie de marché, pour qui finalement l'économie de marché est le meilleur moyen de créer de la richesse. Mais à côté de ça, et c'est là où il est méconnu, il a compris les mécanismes du marché politique.
+Il était aussi un philosophe et un penseur de la société, de l'ordre social, de la justice, de la loi, un penseur du droit. Et à ce titre-là, on peut dire que Bastiat est une lumière pour notre temps. Et je voudrais en terminer par là. C'est quelqu'un qui a essayé de comprendre le fonctionnement du marché politique. Bien sûr, c'est aussi un défenseur de l'économie de marché, pour qui finalement l'économie de marché est le meilleur moyen de créer de la richesse. Mais à côté de ça, et c'est là où il est méconnu, il a compris les mécanismes du marché politique.
 
 ![image](assets/image/00/IMG24.webp)
 
-Quand il a été élu député, c'était donc la Seconde République et désormais c'était le peuple qui faisait les lois. Et là, Bastia a assisté à une espèce d'inflation de lois dans tous les sens, de création, de services publics, de droits sociaux, de taxes, etc.
+Quand il a été élu député, c'était donc la Seconde République et désormais c'était le peuple qui faisait les lois. Et là, Bastiat a assisté à une espèce d'inflation de lois dans tous les sens, de création, de services publics, de droits sociaux, de taxes, etc.
 
 ![image](assets/image/00/IMG29.webp)
 
 Et il s'est rendu compte qu'au fond, rien n'avait vraiment changé. On disposait des biens des autres par le vote, par la loi, ce qu'il a appelé la spoliation légale. Et ce phénomène de la spoliation légale a été au centre de son œuvre et notamment de ce petit texte qu'il a écrit à la fin de sa vie, La loi, où il oppose la spoliation légale et la propriété, le droit de propriété. Et il montre qu'au fond, la véritable solution du problème social, c'est la liberté, c'est-à-dire la propriété, la disposition de soi et du fruit de son travail.
 
-Dans ce cours, nous allons donc voyager ensemble à travers la pensée de Frédéric Bastia, en partant des influences de ses auteurs qui l'ont formé très tôt dès sa jeunesse, puis nous intéresserons à ses sophismes économiques, et enfin nous terminerons avec ce grand texte qui est La loi et qui nous introduira à l'analyse du marché politique, à l'analyse de la société.
+Dans ce cours, nous allons donc voyager ensemble à travers la pensée de Frédéric Bastiat, en partant des influences de ses auteurs qui l'ont formé très tôt dès sa jeunesse, puis nous intéresserons à ses sophismes économiques, et enfin nous terminerons avec ce grand texte qui est La loi et qui nous introduira à l'analyse du marché politique, à l'analyse de la société.
 
 ## La vie et le contexte historique
 
