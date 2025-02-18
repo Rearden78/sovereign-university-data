@@ -8,7 +8,7 @@ objectives:
   - Développer une compréhension critique de la continuité historique entre les différents penseurs et leurs théories
 ---
 
-# Un voyage dans l'histoire philosophique de la liberté
+# Un voyage dans l'histoire économique de la liberté
 
 En réaction aux idées et aux institutions de l’Ancien régime, s’est développée en France, à partir du début du XVIIIe siècle, une grande tradition intellectuelle autour d’une notion centrale : le laissez-faire. C’est un marchand, dit-on, qui prononça le premier cette formule, quand le ministre Colbert vint lui demander : "Qu’est-ce que l’État peut faire pour vous aider ?". Il répondit : "Nous laisser faire".
 
