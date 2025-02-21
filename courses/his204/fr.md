@@ -8,7 +8,7 @@ objectives:
   - Développer une compréhension critique de la continuité historique entre les différents penseurs et leurs théories
 ---
 
-# Un voyage dans l'histoire philosophique de la liberté
+# Un voyage dans l'histoire économique de la liberté
 
 En réaction aux idées et aux institutions de l’Ancien régime, s’est développée en France, à partir du début du XVIIIe siècle, une grande tradition intellectuelle autour d’une notion centrale : le laissez-faire. C’est un marchand, dit-on, qui prononça le premier cette formule, quand le ministre Colbert vint lui demander : "Qu’est-ce que l’État peut faire pour vous aider ?". Il répondit : "Nous laisser faire".
 
@@ -217,7 +217,7 @@ L’abbé de Saint-Pierre a écrit sur l’économie, mais c’est plutôt comme
 
 ![image](assets/fr/026.webp)
 
-Il y montre que les guerres sont destructives pour ceux qui les perdent comme pour ceux qui les gagnent, et même pour ceux qui n’y participent pas, car leur commerce en est atteint. 
+Il y montre que les guerres sont destructrices pour ceux qui les perdent comme pour ceux qui les gagnent, et même pour ceux qui n’y participent pas, car leur commerce en est atteint. 
 
 Pour lutter contre le fléau de la guerre, il recommande la constitution d’une sorte de ligue des nations européennes. Il se formerait un conseil européen où devraient se résoudre les problèmes des uns et des autres. On aurait donc recours à l’arbitrage, afin d’éviter d’en venir aux armes. Si une nation ne se montrait pas assez sage pour adopter la paix, si elle menaçait les autres nations européennes, l’entente européenne aurait de quoi répondre. On aurait recours, face à de tels évènements, à une armée européenne dont les forces seraient fournies par les différents pays.
 
