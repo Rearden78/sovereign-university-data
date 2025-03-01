@@ -42,6 +42,7 @@ Mais il y a aussi Colbert, ministre de Louis XIV, soutenant tour à tour les rè
 ![image](assets/fr/004.webp)
 
 Les maximes de Colbert, dans l’esprit des hommes d’État de la toute fin du XVIIe siècle, sont au nombre de quatre.
+
 (1) L’industrie a besoin de règlements et doit être contenue dans le cadre de corporations. Ces règlements spécifient par exemple comment doivent être fabriqués les draps et les toiles, leur taille et leur poids. On en compte alors des centaines, qui remplissent un volume spécial à chaque type d’industrie. Ces règlements ne suffisant pas, aux yeux des disciples de Colbert, il faut en outre encadrer l’industrie dans les corporations. 
 
 
